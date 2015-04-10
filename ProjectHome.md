@@ -1,0 +1,1 @@
+Sistema de administración de tragos tipo bolsa de acciones, conexión con tiketeras.
